@@ -34,9 +34,9 @@ public class AboutMe extends HttpServlet {
 		
 		//body
 		String noiDungHTML;
-		noiDungHTML = "<center><h1>SOMETHING ABOUT ME</h1>";
-		noiDungHTML += "<h2>ABC</h2>";
-		noiDungHTML += "<p><font color=red size=20px> HELLO 62_CNTT_CLC_CTU </font></p>";
+		noiDungHTML = "<center><h1>Nguyen Ngoc Hoai Sang</h1>";
+		noiDungHTML += "<h2>62_CNTT_CLC</h2>";
+		noiDungHTML += "<p><font color=red size=20px> 62133231 </font></p>";
 		
 		PrintWriter traVe = response.getWriter();
 		traVe.append(noiDungHTML);
