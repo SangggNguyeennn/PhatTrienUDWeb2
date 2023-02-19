@@ -32,7 +32,7 @@ public class Bai1_2 extends HttpServlet {
 		response.setCharacterEncoding("utf-8");
 		PrintWriter traVe = response.getWriter();
 		traVe.append("Ban vua gui yeu cau dang GET, day la dap ung cua toi ");
-		String noiDungHTML = "<form method = POST action=\"ViduHelloWordServlet/Bai1_2\""
+		String noiDungHTML = "<form method = POST action=\"Bai1_2\""
 				+ "<label>Ho:</label>"
 				+ "<input type=\"text\"name=\"fname\"><br>\r\n"
 				+ "<label>Ten:</label>"

@@ -31,15 +31,15 @@ public class AboutMe extends HttpServlet {
 		//head
 		response.setContentType("text/html");
 		response.setCharacterEncoding("UTF-8");
-		
-		//body
-		String noiDungHTML;
-		noiDungHTML = "<center><h1>Nguyen Ngoc Hoai Sang</h1>";
-		noiDungHTML += "<h2>62_CNTT_CLC</h2>";
-		noiDungHTML += "<p><font color=red size=20px> 62133231 </font></p>";
-		
 		PrintWriter traVe = response.getWriter();
-		traVe.append(noiDungHTML);
+
+		traVe.println("<h1>About Me</h1>");
+		traVe.println("<p>Ten: Nguyen Ngoc Hoai Sang</p>");
+		traVe.println("<p>Lop: 62_CNTT_CLC</p>");
+		traVe.println("<p>MSSV: 62133231</p>");
+		traVe.println("<p>Email: sang.nnh.62cntt@ntu.edu.vn</p>");
+		traVe.println("<p>Phone: 0376354610</p>");
+
 	}
 
 }

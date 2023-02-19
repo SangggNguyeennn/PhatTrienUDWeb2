@@ -31,12 +31,12 @@ public class BMI extends HttpServlet {
 		response.setContentType("text/html");
 		response.setCharacterEncoding("utf-8");
 		PrintWriter traVe = response.getWriter();
-		traVe.append("Ban vua gui yeu cau dang GET, day la dap ung cua toi ");
-		String noiDungHTML = "<form method = POST action=\"ViduHelloWordServlet/Bai1_2\""
-				+ "<label>Chieu cao:</label>"
-				+ "<input type=\"text\"name=\"fname\"><br>\r\n"
-				+ "<label>Can nang:</label>"
-				+ "<input type=\"text\"name=\"lname\"><br>"
+		traVe.println("Tinh BMI");
+		String noiDungHTML = "<form method = POST action=\"BMI\""
+				+ "<label>Nhap chieu cao:</label>"
+				+ "<input type=\"text\"name=\"height\"><br>\r\n"
+				+ "<label>Nhap can nang:</label>"
+				+ "<input type=\"text\"name=\"weight\"><br>"
 				+ "<input type=\"submit\"value=\"Tinh BMI\">"
 				+ "</form>";
 		traVe.append(noiDungHTML);
@@ -48,14 +48,19 @@ public class BMI extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		response.setContentType("text/html");
 		response.setCharacterEncoding("utf-8");
-		String value1 = request.getParameter("fname");
-		String value2 = request.getParameter("lname");
+
 		PrintWriter traVe = response.getWriter();
-		traVe.append("Ban vua gui yeu cau dang POST, day la dap ung cua toi");
-		traVe.append("Gia tri tham so fname = ");
-		traVe.append(value1);
-		traVe.append("\nGia tri tham so lname = ");
-		traVe.append(value2);
+		String weightStr = request.getParameter("weight");
+		String heightStr = request.getParameter("height");
+
+		float weight = Float.parseFloat(weightStr);
+		float height = Float.parseFloat(heightStr);
+		
+		float bmi = weight / (height * height);
+		
+		traVe.println("Chieu cao cua ban la: " + height );
+		traVe.println("\nCan nang cua ban la: " + weight );
+		traVe.println("\nBMI = " + bmi );
 	}
 
 }
