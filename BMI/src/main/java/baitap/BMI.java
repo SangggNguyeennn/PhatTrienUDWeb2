@@ -31,13 +31,13 @@ public class BMI extends HttpServlet {
 		response.setContentType("text/html");
 		response.setCharacterEncoding("utf-8");
 		PrintWriter traVe = response.getWriter();
-		traVe.println("Tinh BMI");
+		traVe.println("<h1>Tinh BMI</h1>");
 		String noiDungHTML = "<form method = POST action=\"BMI\""
 				+ "<label>Nhap chieu cao:</label>"
-				+ "<input type=\"text\"name=\"height\"><br>\r\n"
+				+ "<input style=\"margin-left: 15px;\" type=\"text\"name=\"height\"><br>\r\n"
 				+ "<label>Nhap can nang:</label>"
-				+ "<input type=\"text\"name=\"weight\"><br>"
-				+ "<input type=\"submit\"value=\"Tinh BMI\">"
+				+ "<input style=\"margin-left: 19px;\" type=\"text\"name=\"weight\"><br>"
+				+ "<input style=\"margin-top:20px;margin-left:90px;width:70px;height:30px;\" type=\"submit\"value=\"Tinh\">"
 				+ "</form>";
 		traVe.append(noiDungHTML);
 	}
@@ -58,9 +58,29 @@ public class BMI extends HttpServlet {
 		
 		float bmi = weight / (height * height);
 		
-		traVe.println("Chieu cao cua ban la: " + height );
+		traVe.println("Chieu cao cua ban la: " + height);
 		traVe.println("\nCan nang cua ban la: " + weight );
 		traVe.println("\nBMI = " + bmi );
+		
+		if(bmi<18.5) {
+			traVe.println("<p>Gay</p>");
+		}
+		if(bmi>18.5 && bmi<24.9) {
+			traVe.println("<p>Binh Thuong</p>");
+		}
+		if(bmi>25 && bmi<29.9) {
+			traVe.println("<p>Hoi Beo</p>");
+		}
+		if(bmi>30 && bmi<34.9) {
+			traVe.println("<p>Beo Phi Cap Do 1</p>");
+		}
+		if(bmi>35 && bmi<39.9) {
+			traVe.println("<p>Beo Phi Cap Do 2</p>");
+		}
+		if(bmi>40) {
+			traVe.println("<p>Beo Phi Cap Do 3</p>");
+		}
+		
 	}
 
 }

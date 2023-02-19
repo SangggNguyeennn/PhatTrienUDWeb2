@@ -33,7 +33,7 @@ public class AboutMe extends HttpServlet {
 		response.setCharacterEncoding("UTF-8");
 		PrintWriter traVe = response.getWriter();
 
-		traVe.println("<h1 style=\"\">NHA TRANG UNIVERSITY</h1>");
+		traVe.println("<h1>NHA TRANG UNIVERSITY</h1>");
 		traVe.println("<h1 style=\"width:196px;rotate:-90deg;margin-top: 70px;border-bottom:solid;margin-left:-30px;\">About Me</h1>");
 //		traVe.println("<img src=\"Image/ms.png\" alt=\"My Image\">");
 		traVe.println("<h3 style=\"margin-top:-100px;margin-left:113px;\">Nguyen Ngoc Hoai Sang</h3>");
