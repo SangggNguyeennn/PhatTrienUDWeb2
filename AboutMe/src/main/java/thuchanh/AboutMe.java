@@ -33,13 +33,15 @@ public class AboutMe extends HttpServlet {
 		response.setCharacterEncoding("UTF-8");
 		PrintWriter traVe = response.getWriter();
 
-		traVe.println("<h1 style=\"width:140px;rotate:-90deg;margin-top: 70px;\">About Me</h1>");
+		traVe.println("<h1 style=\"\">NHA TRANG UNIVERSITY</h1>");
+		traVe.println("<h1 style=\"width:196px;rotate:-90deg;margin-top: 70px;border-bottom:solid;margin-left:-30px;\">About Me</h1>");
 //		traVe.println("<img src=\"Image/ms.png\" alt=\"My Image\">");
-		traVe.println("<p style=\"margin-top:-100px;margin-left:110px;\">Ten: Nguyen Ngoc Hoai Sang</p>");
-		traVe.println("<p style=\"margin-left:110px;\">Lop: 62_CNTT_CLC</p>");
-		traVe.println("<p style=\"margin-left:275px;margin-top:-35px;\">MSSV: 62133231</p>");
-		traVe.println("<p style=\"margin-left:110px;\">Email: sang.nnh.62cntt@ntu.edu.vn</p>");
-		traVe.println("<p style=\"margin-left:110px;\">Phone: 0376354610</p>");
+		traVe.println("<h3 style=\"margin-top:-100px;margin-left:113px;\">Nguyen Ngoc Hoai Sang</h3>");
+		traVe.println("<p style=\"margin-left:113px;\">62_CNTT_CLC</p>");
+		traVe.println("<p style=\"margin-left:240px;margin-top:-35px;\">62133231</p>");
+		traVe.println("<p style=\"margin-left:113px;\">sang.nnh.62cntt@ntu.edu.vn</p>");
+		traVe.println("<p style=\"margin-left:113px;\">0376354610</p>");
+		traVe.println("<p style=\"margin-left:88px;border-bottom:solid;padding-left:25px;margin-top:-6px;width:285px;border-right:solid;\">https://www.facebook.com/helloimcharone/</p>");
 
 	}
 
