@@ -907,3 +907,308 @@
 2023-03-06 08:40:19,783 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
 2023-03-06 08:40:19,784 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-03-06 08:40:19,784 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 09:20:04,545 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:20:04,545 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 09:20:04,547 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:20:04,547 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 09:27:04,775 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:27:04,775 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 09:27:04,776 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:27:04,776 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 09:30:32,245 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:30:32,245 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 09:30:32,246 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:30:32,246 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 09:30:35,597 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:30:35,597 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 09:30:35,598 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:30:35,598 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 09:32:28,193 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:32:28,193 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 09:32:28,195 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:32:28,195 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 09:33:43,467 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:33:43,467 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 09:33:43,468 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:33:43,468 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 09:36:31,909 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:36:31,909 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 09:36:31,910 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:36:31,910 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 09:37:35,112 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:37:35,112 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 09:37:35,113 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:37:35,113 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 09:37:44,463 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:37:44,463 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 09:37:44,465 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:37:44,465 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 09:37:47,465 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:37:47,465 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 09:37:47,465 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:37:47,465 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 09:38:02,842 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:38:02,842 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 09:38:02,843 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 09:38:02,843 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:03:33,906 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:03:33,906 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:03:33,907 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:03:33,907 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:05:08,130 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:05:08,130 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:05:08,131 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:05:08,131 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:06:16,813 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:06:16,813 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:06:16,814 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:06:16,814 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:07:35,487 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:07:35,487 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:07:35,488 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:07:35,488 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:08:02,112 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:08:02,112 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:08:02,114 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:08:02,114 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:11:13,341 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:11:13,342 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:11:13,343 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:11:13,343 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:11:19,073 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:11:19,073 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:11:19,074 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:11:19,074 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:28:24,916 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:28:24,916 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:28:24,918 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:28:24,918 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:29:08,542 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:29:08,542 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:29:08,543 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:29:08,543 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:29:19,795 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:29:19,795 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:29:19,796 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:29:19,796 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:29:39,884 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:29:39,884 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:29:39,885 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:29:39,885 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:54:58,050 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:54:58,050 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:54:58,052 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:54:58,052 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:56:03,355 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:56:03,355 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:56:03,356 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:56:03,356 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:56:49,556 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:56:49,556 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:56:49,557 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:56:49,557 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-06 10:57:12,507 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:57:12,507 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-06 10:57:12,508 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-06 10:57:12,508 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 07:24:42,780 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-13 07:30:03,992 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:30:03,994 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 07:30:03,997 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:30:03,997 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 07:30:06,361 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:30:06,366 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-03-13 07:30:06,369 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:30:06,369 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCBai1Maven\src\test\resources
+2023-03-13 07:30:06,389 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:30:06,389 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 07:30:06,391 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:30:06,391 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 07:37:31,515 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:37:31,515 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 07:37:31,517 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:37:31,517 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 07:52:01,864 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:52:01,864 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 07:52:01,866 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:52:01,866 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 07:52:48,631 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:52:48,631 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 07:52:48,633 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:52:48,634 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 07:53:03,124 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:53:03,125 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 07:53:03,127 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:53:03,127 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 07:56:45,786 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:56:45,787 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 07:56:45,789 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:56:45,789 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 07:56:48,054 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:56:48,054 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 07:56:48,056 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:56:48,056 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 07:57:30,941 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:57:30,942 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 07:57:30,945 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:57:30,945 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 07:57:38,648 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:57:38,649 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 07:57:38,650 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 07:57:38,650 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:00:42,059 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:00:42,059 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:00:42,061 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:00:42,061 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:00:48,549 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:00:48,550 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:00:48,551 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:00:48,551 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:01:43,741 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:01:43,741 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:01:43,744 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:01:43,745 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:01:54,425 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:01:54,425 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:01:54,426 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:01:54,426 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:37:57,790 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:37:57,791 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:37:57,792 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:37:57,793 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:38:04,694 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:38:04,695 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:38:04,696 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:38:04,696 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:43:28,132 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:43:28,132 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:43:28,134 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:43:28,134 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:43:47,436 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:43:47,436 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:43:47,438 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:43:47,438 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:44:12,637 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:44:12,637 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:44:12,638 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:44:12,638 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:44:32,342 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:44:32,342 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:44:32,343 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:44:32,343 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:44:39,379 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:44:39,379 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:44:39,380 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:44:39,380 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:44:53,786 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:44:53,786 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:44:53,788 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:44:53,789 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:45:35,693 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:45:35,693 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:45:35,695 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:45:35,695 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:45:52,717 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:45:52,717 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:45:52,718 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:45:52,718 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:45:54,780 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:45:54,780 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:45:54,781 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:45:54,782 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:58:07,766 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:58:07,766 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:58:07,767 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:58:07,767 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 08:58:16,300 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:58:16,300 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 08:58:16,301 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 08:58:16,302 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 09:17:04,992 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:17:04,992 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 09:17:04,993 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:17:04,993 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 09:41:17,475 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:41:17,475 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 09:41:17,477 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:41:17,477 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 09:45:06,095 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:45:06,095 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 09:45:06,098 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:45:06,098 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 09:45:35,096 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:45:35,096 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 09:45:35,097 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:45:35,097 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 09:48:19,705 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:48:19,705 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 09:48:19,707 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:48:19,707 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 09:53:30,477 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:53:30,477 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 09:53:30,478 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:53:30,479 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 09:53:47,326 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:53:47,326 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 09:53:47,327 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:53:47,328 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 09:53:55,538 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:53:55,538 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 09:53:55,539 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:53:55,540 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 09:54:13,269 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:54:13,269 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 09:54:13,270 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 09:54:13,270 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 10:00:15,687 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:00:15,687 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 10:00:15,688 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:00:15,688 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 10:25:44,019 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:25:44,020 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 10:25:44,021 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:25:44,021 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 10:29:10,397 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:29:10,397 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 10:29:10,398 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:29:10,398 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 10:39:41,992 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:39:41,992 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 10:39:41,993 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:39:41,993 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 10:40:21,839 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:40:21,839 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 10:40:21,840 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:40:21,841 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 10:40:48,072 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:40:48,072 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 10:40:48,073 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:40:48,073 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 10:49:39,557 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:49:39,558 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 10:49:39,559 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:49:39,559 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 10:50:28,507 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:50:28,507 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 10:50:28,509 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:50:28,509 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 10:50:57,979 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:50:57,979 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 10:50:57,981 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:50:57,982 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 10:53:10,001 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:53:10,001 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 10:53:10,002 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:53:10,003 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 10:53:13,630 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:53:13,630 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 10:53:13,631 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:53:13,631 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 10:53:33,264 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:53:33,264 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 10:53:33,265 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:53:33,265 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-03-13 10:53:59,874 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:53:59,874 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-03-13 10:53:59,875 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-13 10:53:59,875 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
