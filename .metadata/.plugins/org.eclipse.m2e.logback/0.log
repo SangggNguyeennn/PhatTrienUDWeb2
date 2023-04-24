@@ -1212,3 +1212,73 @@
 2023-03-13 10:53:59,874 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
 2023-03-13 10:53:59,875 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-03-13 10:53:59,875 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\PhatTrienUDWeb2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-04-17 07:19:01,908 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-17 07:21:56,224 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-17 07:26:25,155 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-17 07:26:46,230 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: till:HelloLayout_Resources:0.0.1-SNAPSHOT @ D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\HelloLayout_Resources\pom.xml.
+2023-04-17 07:26:48,879 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jp.ivs:SpringMVCBai1Maven:0.0.1-SNAPSHOT @ D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCBai1Maven\pom.xml.
+2023-04-17 07:26:48,889 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:26:48,890 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\HelloLayout_Resources\src\main\resources
+2023-04-17 07:26:48,892 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:26:48,892 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\HelloLayout_Resources\src\test\resources
+2023-04-17 07:26:54,560 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:26:54,560 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\HelloLayout_Resources\src\main\resources
+2023-04-17 07:26:54,563 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:26:54,563 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\HelloLayout_Resources\src\test\resources
+2023-04-17 07:26:54,807 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:26:54,808 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCBai1Maven\src\main\resources
+2023-04-17 07:26:54,810 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:26:54,810 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCBai1Maven\src\test\resources
+2023-04-17 07:26:54,988 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jp.ivs:SpringMVCBai1Maven:0.0.1-SNAPSHOT @ D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCViDuMaven\pom.xml.
+2023-04-17 07:26:55,125 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:26:55,125 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-04-17 07:26:55,127 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:26:55,127 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-04-17 07:26:57,493 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:26:57,494 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-04-17 07:26:57,496 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:26:57,496 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-04-17 07:29:03,471 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-17 07:35:34,140 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:35:34,141 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\HelloLayout_Resources\src\main\resources
+2023-04-17 07:35:34,145 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:35:34,145 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\HelloLayout_Resources\src\test\resources
+2023-04-17 07:35:34,670 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:35:34,670 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCBai1Maven\src\main\resources
+2023-04-17 07:35:34,672 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:35:34,672 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCBai1Maven\src\test\resources
+2023-04-17 07:35:34,730 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:35:34,730 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-04-17 07:35:34,732 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 07:35:34,732 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-04-17 07:39:18,031 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-17 07:39:22,828 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: vn.tiil.edu:BaiTapVD3:0.0.1-SNAPSHOT @ D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\BaiTapVD3\pom.xml.
+2023-04-17 07:39:29,328 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-17 07:39:29,329 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-17 07:39:29,332 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\BaiTapVD3\src\test\resources
+2023-04-17 08:03:50,842 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-17 08:03:53,266 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jp.ivs:62133231_ThiGiuaKy:0.0.1-SNAPSHOT @ D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\62133231_ThiGiuaKy\pom.xml.
+2023-04-17 08:03:54,135 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 08:03:54,135 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\62133231_ThiGiuaKy\src\main\resources
+2023-04-17 08:03:54,139 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 08:03:54,139 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\62133231_ThiGiuaKy\src\test\resources
+2023-04-17 08:03:54,143 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of 62133231_ThiGiuaKy
+2023-04-17 08:03:54,143 [Worker-0: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for 62133231_ThiGiuaKy
+2023-04-17 08:03:54,155 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 08:03:55,347 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 08:03:55,347 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\62133231_ThiGiuaKy\src\main\resources
+2023-04-17 08:03:55,349 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 08:03:55,350 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\62133231_ThiGiuaKy\src\test\resources
+2023-04-17 08:03:55,540 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 08:03:55,540 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\HelloLayout_Resources\src\main\resources
+2023-04-17 08:03:55,544 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 08:03:55,544 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\HelloLayout_Resources\src\test\resources
+2023-04-17 08:03:55,701 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 08:03:55,702 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCBai1Maven\src\main\resources
+2023-04-17 08:03:55,704 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 08:03:55,704 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCBai1Maven\src\test\resources
+2023-04-17 08:03:55,773 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 08:03:55,773 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\main\resources
+2023-04-17 08:03:55,776 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-04-17 08:03:55,777 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\DaiHoc(2020-2024)\Nam3\Ky2\PhatTrienUDWeb2\SpringMVCViDuMaven\src\test\resources
+2023-04-17 08:48:46,641 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th-"http://www.thymeleaf.org">
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+		<form method="get" action="addCal">
+			Can Nang: <input type="text" name = "cn"><br>
+			Chieu Cao: <input type="text"name = "cc"><br>
+			<input type="submit" value="Tính BMI"/>
+		</form>
+		<span style="font-size: 20px">Kết quả</span>
+		<span th:text="${kq}"/>
+</body>
+</html>
